@@ -81,11 +81,11 @@ class Admin
             //     'slug'  => 'text-slug',
             //     'type'  => 'text'
             // ],
-            // [
-            //     'label' => 'Textarea Label',
-            //     'slug'  => 'textarea-slug',
-            //     'type'  => 'textarea'
-            // ]
+            [
+                'label' => 'Sendgrid API Key',
+                'slug'  => 'sg-api-key',
+                'type'  => 'text'
+            ]
         ];
 
         // Model
